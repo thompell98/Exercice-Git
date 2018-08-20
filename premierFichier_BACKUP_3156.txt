@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Modification4
-=======
-Modification3
-DeuxiËme ligne
->>>>>>> Fonctionnalit√©1
